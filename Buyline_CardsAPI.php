@@ -57,7 +57,7 @@ class Buyline_CardsAPI {
         $this->put("CARDDATA",$pan);
         $this->put("CARDEXPIRYDATE",$expiry);
         $this->put("TOTALAMOUNT",$amount);
-        $this->put("CVV",$cvv);
+        $this->put("CVV2",$cvv);
 
         $this->buildParam();
         $this->checkParam();
@@ -72,7 +72,7 @@ class Buyline_CardsAPI {
                 $this->put("TXNREFERENCE",$this->txnReference);
                 $this->put("TOTALAMOUNT",$amount);
                 $this->put("CARDDATA",$this->maskPan($pan));
-                $this->put("CVV",'****');
+                $this->put("CVV2",'****');
 
                 $this->buildParam();
                 $this->checkParam();
