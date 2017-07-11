@@ -271,7 +271,7 @@ class Buyline_CardsAPI {
     {
         $number=preg_replace('/[^\d]/','',$number);
 
-        if (preg_match('/^5[1-5][0-9]{14}$/', $number)) {
+        if (preg_match('/^(5[1-5]\d{4}|677189)\d{10}$|^(222[1-9]|2[3-6]\d{2}|27[0-1]\d|2720)\d{12}$/', $number)) {
             return 'MASTERCARD';
         }
         elseif (preg_match('/^4[0-9]{12}([0-9]{3})$/', $number)) {
