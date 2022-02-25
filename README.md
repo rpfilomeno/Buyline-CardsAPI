@@ -1,6 +1,6 @@
 # Bank of New Zealand BNZ Buyline-CardsAPI
 
-[![Join the chat at https://gitter.im/rpfilomeno/Buyline-CardsAPI](https://badges.gitter.im/rpfilomeno/Buyline-CardsAPI.svg)](https://gitter.im/rpfilomeno/Buyline-CardsAPI?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/rpfilomeno/Buyline-CardsAPI](https://badges.gitter.im/rpfilomeno/Buyline-CardsAPI.svg)](https://gitter.im/rpfilomeno/Buyline-CardsAPI?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Join the chat at https://gitter.im/rpfilomeno/Buyline-CardsAPI](https://badges.gitter.im/rpfilomeno/Buyline-CardsAPI.svg)](https://gitter.im/rpfilomeno/Buyline-CardsAPI?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 Pure PHP implementation of Buy-Line SWIG API used by BNZ
