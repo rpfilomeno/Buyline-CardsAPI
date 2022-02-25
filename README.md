@@ -1,4 +1,8 @@
 # Bank of New Zealand BNZ Buyline-CardsAPI
+
+[![Join the chat at https://gitter.im/rpfilomeno/Buyline-CardsAPI](https://badges.gitter.im/rpfilomeno/Buyline-CardsAPI.svg)](https://gitter.im/rpfilomeno/Buyline-CardsAPI?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
 Pure PHP implementation of Buy-Line SWIG API used by BNZ
 
 Do you hate it why BNZ Buy-Line requires you to use SWIG and compile their SDK as PHP module?
