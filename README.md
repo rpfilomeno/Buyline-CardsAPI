@@ -3,7 +3,7 @@
 [![Join the chat at https://gitter.im/rpfilomeno/Buyline-CardsAPI](https://badges.gitter.im/rpfilomeno/Buyline-CardsAPI.svg)](https://gitter.im/rpfilomeno/Buyline-CardsAPI?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
-Pure PHP implementation of Buy-Line SWIG API used by BNZ
+Pure PHP implementation of [Buy-Line SWIG API used by BNZ](https://www.bnz.co.nz/about-us/open-banking/bnz-apis)
 
 Do you hate it why BNZ Buy-Line requires you to use SWIG and compile their SDK as PHP module?
 Do you hate it when they haven't forked it to support PHP7?
