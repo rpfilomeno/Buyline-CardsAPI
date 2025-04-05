@@ -5,7 +5,7 @@
 
 Pure PHP implementation of [Buy-Line SWIG API used by BNZ](https://www.bnz.co.nz/about-us/open-banking/bnz-apis)
 
-Do you hate it why BNZ Buy-Line requires you to use SWIG and compile their SDK as PHP module?
+Do you hate it why BNZ Buy-Line requires you to use [SWIG](https://www.swig.org/) and compile their SDK as PHP module?
 Do you hate it when they haven't forked it to support PHP7?
 Here is your answer, a PHP Class that implements the API is pure PHP sockets.
 
